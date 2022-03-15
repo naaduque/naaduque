@@ -8,6 +8,7 @@
 
 ![naaduque GitHub stats](https://github-readme-stats.vercel.app/api?username=naaduque&show_icons=true&theme=radical)
 
+
 <div>
 
   <img align="right" width="30%" src="https://i.imgur.com/34VxyW5.gif">
@@ -32,3 +33,7 @@
   <img align="center" alt="mysql" height="25" width="auto" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="java" height="25" width="auto" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
+
+
+### Linguagens mais utilizadas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naaduque)](https://github.com/naaduque/github-readme-stats)
